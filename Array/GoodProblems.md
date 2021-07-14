@@ -8,3 +8,8 @@
 - Next permutation (14)
 - Count Inversion (15)
 - Find max product (22)
+- Find majority element(24)
+- **Time to buy sell stock (v.2)**(25)
+- Triple element sum to X (27)
+- Three way partitioning (31)
+- Median of 2 arrays (35)
