@@ -9,5 +9,7 @@
 - KMP (18)
 - Minimum reversal(20)
 - Count all palindrome(21)
+- Print minimum char need to be added to make palindrome(34)
+- Print all possible sentence (42) 
 
 
