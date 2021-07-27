@@ -12,5 +12,7 @@
 - **Kth Element of sorted array (22)**
 - Aggressive cows (23)
 - Book  allocation problem (24)
+- **Job Scheduling problem (26)**
 - At lest n zeros(28)
+- Double Helix (31)
 - **SubSet Sum (32)**
