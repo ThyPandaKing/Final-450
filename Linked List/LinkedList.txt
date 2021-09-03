@@ -1,2 +1,0 @@
-it is an important data structure, used for
-variable size data types.
